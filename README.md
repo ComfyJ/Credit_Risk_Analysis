@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview of the analysis: 
-The purpose of the our analysis is to to predict credit risk for LendingClub, a peer-to-peer lending services company techniques to train and evaluate models with unbalanced classes  using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, you’ll use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm.
+The purpose of the our analysis is to to predict credit risk for LendingClub, a peer-to-peer lending services company techniques to train and evaluate models with unbalanced classes  using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, we use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm.
 
 ## Results: 
 Below is the lists of the balanced accuracy scores and the precision and recall scores of all six machine learning models with screenshots.
